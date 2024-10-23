@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Bussiness.deps.json
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Bussiness.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Bussiness.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Model.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Services.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Model.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\bin\Debug\net8.0\WebAPIEmployesSalary.Services.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.AssemblyInfo.cs
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEm.807BADDB.Up2Date
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\refint\WebAPIEmployesSalary.Bussiness.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\WebAPIEmployesSalary.Bussiness.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Bussiness\obj\Debug\net8.0\ref\WebAPIEmployesSalary.Bussiness.dll
